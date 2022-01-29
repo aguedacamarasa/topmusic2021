@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "titulo": "drivers license",
+    "srcimg": "https://pbs.twimg.com/media/Eq6FWVBVkAAawTu?format=jpg&name=4096x4096",
+    "alt": "Portada cançó “drivers license” d'Olivia Rodrigo",
+    "texto": "Olivia Rodrigo",
+    "url":"https://www.youtube.com/watch?v=ZmDBbnmKpqQ"
+},
+{
+    "id": 2,
+    "titulo": "MONTERO (Call Me By Your Name)",
+    "srcimg": "https://www.popelera.net/wp-content/uploads/2021/03/lil-nas-x-montero-1.jpg",
+    "alt": "Portada cançó “Montero” de Lil Nas X",
+    "texto": "Lil Nas X",
+    "url":"https://www.youtube.com/watch?v=6swmTBVI83k"
+},
+{
+    "id": 3,
+    "titulo": "STAY",
+    "srcimg": "https://pbs.twimg.com/media/E5QxO5pUUAMRajE?format=jpg&name=large",
+    "alt": "Portada cançó “STAY” de The Kid LAROI",
+    "texto": "The Kid LAROI (with Justin Bieber)",
+    "url":"https://www.youtube.com/watch?v=kTJczUoc26U"
+},
+{
+    "id": 4,
+    "titulo": "good 4 u",
+    "srcimg": "https://pbs.twimg.com/media/E1Dmz0pXIAoDy-t?format=jpg&name=large",
+    "alt": "Portada cançó “good 4 u” d'Olivia Rodrigo",
+    "texto": "Olivia Rodrigo",
+    "url":"https://www.youtube.com/watch?v=gNi_6U5Pm_o"
+},
+{
+    "id": 5,
+    "titulo": "Levitating (feat. DaBaby)",
+    "srcimg": "https://pbs.twimg.com/media/EUDWDB1VAAIPjFY?format=jpg&name=medium",
+    "alt": "Portada canço “Levitating” de Dua Lipa",
+    "texto": "Dua Lipa",
+    "url":"https://www.youtube.com/watch?v=TUVcZfQe-Kw"
+}
+]
